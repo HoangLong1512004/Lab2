@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "lab2_ph42829",
+    "slug": "lab2_ph42829",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
